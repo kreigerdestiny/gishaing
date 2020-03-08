@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiraedohc.terraria.hu/sitemap.xml
